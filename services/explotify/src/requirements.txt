@@ -19,7 +19,7 @@ itsdangerous==1.1.0
 jedi==0.13.3
 Jinja2==2.10.1
 lxml==4.3.3
-Mako==1.0.9
+Mako==1.2.2
 markovify==0.7.1
 MarkupSafe==1.1.1
 parsel==1.5.1
